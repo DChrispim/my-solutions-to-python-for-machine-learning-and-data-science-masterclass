@@ -4,23 +4,23 @@ Hello visitor! I am [Breno D. Chrispim](https://github.com/DChrispim) and this r
 
 ## Current status
 
-| File                                                   | Topics                                 |                       Status                        |
-| ------------------------------------------------------ | -------------------------------------- | :-------------------------------------------------: |
-| [01-02-Exercises](01-02/solutions-notebook.ipynb)      | Basic Python exercises                 |  ![Done](https://img.shields.io/badge/Done-green)   |
-| [02-03-Exercises](02-03/solutions-notebook.ipynb)      | NumPy exercises                        |  ![Done](https://img.shields.io/badge/Done-green)   |
-| [03-11-Exercise](03-11/solutions-notebook.ipynb)       | Pandas exercises                       |  ![Done](https://img.shields.io/badge/Done-green)   |
-| [04-04-Exercises](04-04/solutions-notebook.ipynb)      | Matplotlib exercises                   |  ![Done](https://img.shields.io/badge/Done-green)   |
-| [05-07-Exercise](05-07/solutions-notebook.ipynb)       | Seaborn exercises                      |  ![Done](https://img.shields.io/badge/Done-green)   |
-| [06-01-Capstone-Project](06-01/capstone-project.ipynb) | Data analyses using Seaborn and Pandas |  ![Done](https://img.shields.io/badge/Done-green)   |
-| 10-02-Project-Exercise                                 | Linear Regression exercises            | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| 11-02-Project-Exercise                                 | Logic Regression exercises             | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| 12-01-Exercise                                         | KNN exercises                          | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| 13-02-Project-Exercise                                 | SVM exercises                          | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| 17-00-Capstone-Project                                 |                                        | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| 18-02-Assessment                                       | Text classification exercises          | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| 20-02-Project-Exercise                                 | Clustering exercises                   | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| 22-02-Project-Exercise                                 | DBSCAN exercises                       | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| 23-02-Project-Exercise                                 | PCA exercises                          | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| File                                                             | Topics                                 |                       Status                        |
+| ---------------------------------------------------------------- | -------------------------------------- | :-------------------------------------------------: |
+| [01-02-Exercises](01-02/solutions-notebook.ipynb)                | Basic Python exercises                 |  ![Done](https://img.shields.io/badge/Done-green)   |
+| [02-03-Exercises](02-03/solutions-notebook.ipynb)                | NumPy exercises                        |  ![Done](https://img.shields.io/badge/Done-green)   |
+| [03-11-Exercise](03-11/solutions-notebook.ipynb)                 | Pandas exercises                       |  ![Done](https://img.shields.io/badge/Done-green)   |
+| [04-04-Exercises](04-04/solutions-notebook.ipynb)                | Matplotlib exercises                   |  ![Done](https://img.shields.io/badge/Done-green)   |
+| [05-07-Exercise](05-07/solutions-notebook.ipynb)                 | Seaborn exercises                      |  ![Done](https://img.shields.io/badge/Done-green)   |
+| [06-01-Capstone-Project](06-01/capstone-project.ipynb)           | Data analyses using Seaborn and Pandas |  ![Done](https://img.shields.io/badge/Done-green)   |
+| [10-02-Project-Exercise](10-02/project-solutions-notebook.ipynb) | Linear Regression exercises            | ![Done](https://img.shields.io/badge/Done-green) |
+| 11-02-Project-Exercise                                           | Logic Regression exercises             | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| 12-01-Exercise                                                   | KNN exercises                          | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| 13-02-Project-Exercise                                           | SVM exercises                          | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| 17-00-Capstone-Project                                           |                                        | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| 18-02-Assessment                                                 | Text classification exercises          | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| 20-02-Project-Exercise                                           | Clustering exercises                   | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| 22-02-Project-Exercise                                           | DBSCAN exercises                       | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| 23-02-Project-Exercise                                           | PCA exercises                          | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
 
 ## About me
 
